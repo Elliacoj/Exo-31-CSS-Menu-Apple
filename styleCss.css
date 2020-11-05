@@ -1,0 +1,93 @@
+body {
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    position: fixed;
+    background-color: black;
+    height: 55px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#logo {
+    position: absolute;
+    left: 227px;
+    top: 11px;
+    font-size: 25px;
+    color: #cccccb;
+}
+
+#mac {
+    position: absolute;
+    left: 340px;
+    top: 17px;
+    color: #cccccb;
+}
+
+#ipad {
+    position: absolute;
+    left: 465px;
+    top: 17px;
+    color: #cccccb;
+}
+
+#iphone {
+    position: absolute;
+    left: 591px;
+    top: 17px;
+    color: #cccccb;
+}
+
+#watch {
+    position: absolute;
+    left: 740px;
+    top: 17px;
+    color: #cccccb;
+}
+
+#tv {
+    position: absolute;
+    left: 882px;
+    top: 17px;
+    color: #cccccb;
+}
+
+#music {
+    position: absolute;
+    left: 998px;
+    top: 17px;
+    color: #cccccb;
+}
+
+#assistance {
+    position: absolute;
+    left: 1138px;
+    top: 17px;
+    color: #cccccb;
+}
+
+.fa-search {
+    position: absolute;
+    left: 1313px;
+    font-size: 25px;
+    top: 11px;
+    color: #cccccb;
+    font-weight: normal;
+}
+
+.fa-shopping-bag {
+    position: absolute;
+    left: 1433px;
+    font-size: 25px;
+    top: 11px;
+    color: #cccccb;
+}
